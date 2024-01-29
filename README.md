@@ -1,4 +1,5 @@
 ###Next.js + PostegresSQL + Prisma
+
 #Small feature to understand how NextJS works with PostgreSQL and Prisma.
 
 Thanks2 Ryan for the tutorial!
